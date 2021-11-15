@@ -2,3 +2,4 @@ Name: Yara Vd
 Age: 19
 City:Puurs
 animals: dog
+Hobbies: 
